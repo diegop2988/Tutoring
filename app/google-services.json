@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276510644266",
+    "project_id": "fireapp-dc7b3",
+    "storage_bucket": "fireapp-dc7b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276510644266:android:091b94eb4b675ce099cb53",
+        "android_client_info": {
+          "package_name": "com.example.tutoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276510644266-ubqbheivvc8kl1mgg7fmsghkjn0tatgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0o_6gTk2CyME-zWBUht7zXUyoJfjz0o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276510644266-ubqbheivvc8kl1mgg7fmsghkjn0tatgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
